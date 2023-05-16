@@ -1,4 +1,4 @@
-# Final-Project-Warehouse
+# E-commerce Fnichure
 This is Final Project
 
 Website that serves the needs of furniture and home decoration.
