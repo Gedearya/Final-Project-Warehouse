@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@craco/craco": "^6.1.2",
+    "@craco/craco": "^7.1.0",
     "@heroicons/react": "^1.0.1",
     "@tailwindcss/forms": "^0.3.2",
     "@testing-library/jest-dom": "^5.12.0",
@@ -20,8 +20,7 @@
     "js-number-formatter": "^1.0.1",
     "jspdf": "^2.3.1",
     "moment": "^2.29.1",
-    "node-sass": "^6.0.0",
-    "npm-check-updates": "^11.5.11",
+    "npm-check-updates": "^16.10.12",
     "postcss": "^8.3.0",
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.0",
@@ -41,7 +40,7 @@
     "react-parallax": "^3.3.0",
     "react-redux": "^7.2.4",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^5.0.1",
     "react-scroll": "^1.8.2",
     "react-slidedown": "^2.4.5",
     "react-sticky-box": "^0.9.3",
@@ -62,7 +61,7 @@
     "word-wrap": "^1.2.3"
   },
   "scripts": {
-    "start": "set PORT=3008 && react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
